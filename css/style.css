@@ -220,7 +220,7 @@ padding: 15px;
     display: inline-flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items:center;
     gap: 15px;
     text-align: center;
 }
